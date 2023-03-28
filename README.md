@@ -16,5 +16,7 @@ The data source: https://www.kaggle.com/datasets/corrieaar/apartment-rental-offe
 5. What is the affordability by state?
 6. Why is it expensive?
 
+## Rental Caluclator
+
 ## Visualisation
 Final Storyboard: https://public.tableau.com/app/profile/ponni.laxmi.rajakumar/viz/GermanyRentalPropertyAnalysis/Story1
