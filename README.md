@@ -20,4 +20,5 @@ The data source: https://www.kaggle.com/datasets/corrieaar/apartment-rental-offe
 A rental calculator was formed in the Tableau dashboard.
 
 ## Visualisation
+Technical analysis prepared in python
 Final Storyboard: https://public.tableau.com/app/profile/ponni.laxmi.rajakumar/viz/GermanyRentalPropertyAnalysis/Story1
