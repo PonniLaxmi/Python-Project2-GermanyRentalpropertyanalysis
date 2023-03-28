@@ -1,4 +1,4 @@
-## Germany Rental property analysis 
+#### Germany Rental property analysis 
 Finding accommodation in Germany can be a challenging experience, especially for those relocating to cities. The findings of this analysis can guide individuals and realtors towards realistic rental values in their particular state and increase the likelihood of finding affordable accommodation:
 
 **Data:** 
