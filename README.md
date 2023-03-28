@@ -4,3 +4,17 @@ Finding accommodation in Germany can be a challenging experience, especially for
 **Data:** 
 The data was scraped from the biggest real estate platform in Germany. The data only contains offers for rental properties. 
 The data source: https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany.
+
+## Overview
+  The rental price (price per square meter) gives you an overview of expensive states and the cheapest states in Germany.
+
+## Key Question
+1. Does area impact rent?
+2. Which facilities impact rent?
+3. What is the popular heating type and its expense?
+4. Is newly built worth the hype?
+5. What is the affordability by state?
+6. Why is it expensive?
+
+## Visualisation
+Final Storyboard: https://public.tableau.com/app/profile/ponni.laxmi.rajakumar/viz/GermanyRentalPropertyAnalysis/Story1
