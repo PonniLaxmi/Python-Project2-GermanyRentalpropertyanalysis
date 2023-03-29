@@ -3,6 +3,7 @@ Finding accommodation in Germany can be a challenging experience, especially for
 
 ## Data
 The data was scraped from the biggest real estate platform in Germany. The data only contains offers for rental properties. 
+
 The data source: [click here](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany).
 
 ## Overview
