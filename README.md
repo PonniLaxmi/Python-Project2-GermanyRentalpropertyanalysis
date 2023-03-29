@@ -6,7 +6,7 @@ The data was scraped from the biggest real estate platform in Germany. The data 
 The data source: https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany.
 
 ## Overview
-  The rental price (price per square meter) gives you an overview of expensive states and the cheapest states in Germany.
+  The rental price (price per square meter) gives you an overview of expensive states and the cheapest states in Germany(https://public.tableau.com/app/profile/ponni.laxmi.rajakumar/viz/GermanyRentalPropertyAnalysis/Story1?publish=yes).
 
 ## Key Question
 1. Does area impact rent?
