@@ -17,8 +17,9 @@ The data source: https://www.kaggle.com/datasets/corrieaar/apartment-rental-offe
 6. Why is it expensive?
 
 ## Rental Caluclator
-A rental calculator was formed in the Tableau dashboard.
+A rental calculator was created in the Tableau dashboard(https://public.tableau.com/app/profile/ponni.laxmi.rajakumar/viz/GermanyRentalPropertyAnalysis/Story1?publish=yes).
 
 ## Visualisation
 Technical analysis prepared in python
+
 Final Storyboard: https://public.tableau.com/app/profile/ponni.laxmi.rajakumar/viz/GermanyRentalPropertyAnalysis/Story1
