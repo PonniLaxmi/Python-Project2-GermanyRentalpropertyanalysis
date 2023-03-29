@@ -9,7 +9,7 @@ The data source: [click here to view](https://www.kaggle.com/datasets/corrieaar/
 ## Overview
   The rental price (price per square meter) gives you an overview of expensive states and the cheapest states in Germany. [click here to view](https://public.tableau.com/app/profile/ponni.laxmi.rajakumar/viz/GermanyRentalPropertyAnalysis/Story1?publish=yes).
 
-## Key Question
+## Key Questions
 1. Does area impact rent?
 2. Which facilities impact rent?
 3. What is the popular heating type and its expense?
@@ -20,7 +20,7 @@ The data source: [click here to view](https://www.kaggle.com/datasets/corrieaar/
 ## Rental Caluclator
 A rental calculator was created in the Tableau dashboard. [click here to view](https://public.tableau.com/app/profile/ponni.laxmi.rajakumar/viz/GermanyRentalPropertyAnalysis/Story1?publish=yes).
 
-## Visualisation
-Technical analysis prepared in python
+## Final deliverables
+Technical analysis prepared in python [click here to view](https://github.com/PonniLaxmi/Python-Project2-GermanyRentalpropertyanalysis/tree/main/03%20Scripts)
 
 Final Storyboard: [click here to view](https://public.tableau.com/app/profile/ponni.laxmi.rajakumar/viz/GermanyRentalPropertyAnalysis/Story1)
