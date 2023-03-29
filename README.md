@@ -10,7 +10,7 @@ Finding accommodation in Germany can be a challenging experience, especially for
 3. Salary data : [click here to view](https://www.iamexpat.de/career/working-in-germany/salary-payslip-german-minimum-wage)
 
 ## Overview
-The rental price (price per square meter) gives you an overview of expensive states and the cheapest states in Germany. [click here to view](https://public.tableau.com/app/profile/ponni.laxmi.rajakumar/viz/GermanyRentalPropertyAnalysis/Story1?publish=yes).
+The rental price (price per square meter) gives you an overview of expensive states and the cheapest states in Germany. [click here to view](https://public.tableau.com/app/profile/ponni.laxmi.rajakumar/viz/GermanyRentalPropertyAnalysis/Story1?publish=yes)
 
 ## Key Questions
 1. Does area impact rent?
@@ -21,7 +21,7 @@ The rental price (price per square meter) gives you an overview of expensive sta
 6. Why is it expensive?
 
 ## Rental Caluclator
-A rental calculator was created in the Tableau dashboard. [click here to view](https://public.tableau.com/app/profile/ponni.laxmi.rajakumar/viz/GermanyRentalPropertyAnalysis/Story1?publish=yes).
+A rental calculator was created in the Tableau dashboard. [click here to view](https://public.tableau.com/app/profile/ponni.laxmi.rajakumar/viz/GermanyRentalPropertyAnalysis/Story1?publish=yes)
 
 ## Final deliverables and Results
 Technical analysis prepared in python [click here to view](https://github.com/PonniLaxmi/Python-Project2-GermanyRentalpropertyanalysis/tree/main/03%20Scripts)
