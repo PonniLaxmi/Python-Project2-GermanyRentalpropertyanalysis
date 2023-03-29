@@ -13,7 +13,7 @@ The data source: https://www.kaggle.com/datasets/corrieaar/apartment-rental-offe
 2. Which facilities impact rent?
 3. What is the popular heating type and its expense?
 4. Is newly built worth the hype?
-5. What is the affordability by state?
+5. What are the affordable states to live in?
 6. Why is it expensive?
 
 ## Rental Caluclator
